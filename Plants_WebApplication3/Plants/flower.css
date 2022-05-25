@@ -1,0 +1,27 @@
+button{
+    height: 70px;
+    width: 150px;
+    font-size: medium;
+    font-weight: bold;
+    background: palevioletred;
+    margin-left: 100px;
+    margin-top: 120px ;
+}
+input{
+    height: 50px;
+    width: 200px;
+    padding: .2rem;
+    font-size: medium;
+    font-weight: bold;
+    background: palevioletred;
+    margin-left: 100px;
+    margin-top: 120px ;
+    border-radius: 50%;
+    text-align: center;
+}
+button:hover,input:hover{
+    background: white;
+}
+body{
+     background-image: url("https://wallpaperaccess.com/full/1241416.jpg");
+}

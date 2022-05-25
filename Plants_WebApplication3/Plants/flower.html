@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flowers variety</title>
+    <link rel="stylesheet" href="flower.css">
+
+</head>
+
+<body>
+    <div class="main">
+        <input type="text" id="single_row" placeholder="Enter Id Here">
+        <button id="onlyid">Get by ID</button><br><br>
+        <button id="fulltable">Get all data</button>
+        <div class="addrow">
+            <input type="text" placeholder="Name" id="name">
+            <input type="text" placeholder="BinomialName" id="binomialname">
+            <input type="text" placeholder="State" id="state">
+            <button onclick="postdata()" id="addrow">Insert Record</button>
+        </div>
+        <input type="text" id="like" placeholder="Enter Column">
+        <button id="columnname" onclick="getdata()">Get Columns</button>
+        <div id="b1"></div>
+    </div>
+</body>
+<script src="flower.js"></script>
+
+
+
+</html>

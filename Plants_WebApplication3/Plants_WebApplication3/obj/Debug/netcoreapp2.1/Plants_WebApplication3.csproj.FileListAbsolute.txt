@@ -1,0 +1,14 @@
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\bin\Debug\netcoreapp2.1\Plants_WebApplication3.deps.json
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\bin\Debug\netcoreapp2.1\Plants_WebApplication3.runtimeconfig.json
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\bin\Debug\netcoreapp2.1\Plants_WebApplication3.runtimeconfig.dev.json
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\bin\Debug\netcoreapp2.1\Plants_WebApplication3.dll
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\bin\Debug\netcoreapp2.1\Plants_WebApplication3.pdb
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.RazorAssemblyInfo.cache
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.RazorAssemblyInfo.cs
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.AssemblyInfoInputs.cache
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.AssemblyInfo.cs
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.dll
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.pdb
+C:\Users\Priyanka\source\repos\Plants_WebApplication3\Plants_WebApplication3\obj\Debug\netcoreapp2.1\Plants_WebApplication3.csprojAssemblyReference.cache
